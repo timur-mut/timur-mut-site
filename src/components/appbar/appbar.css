@@ -1,0 +1,16 @@
+.menu {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+}
+
+.menu li {
+    margin: 0 10px;
+    font-family: monospace, monospace;
+    font-style: normal;
+    font-size: 40px;
+}
+
+.menu li a {
+    text-decoration: none;
+}

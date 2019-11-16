@@ -1,0 +1,18 @@
+.site {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    background-color: rgb(30, 30, 30);
+}
+
+.site-content {
+    flex-grow: 1;
+    margin: 8px;
+    font-family: monospace, monospace;
+    color: rgb(220, 220, 220);
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+}

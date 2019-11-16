@@ -1,0 +1,15 @@
+.icon {
+    color: rgb(220, 220, 220);
+    size: 32px;
+    margin: 10px;
+}
+
+.icon:hover {
+    color: rgb(78, 201, 176);
+}
+
+.social-networks-list {
+    display: flex;
+    flex-grow: 1;
+    justify-content: center;
+}
